@@ -1,9 +1,0 @@
-[project]
-name = "q_learning_thing"
-version = "0.1.0"
-description = "dunno"
-
-dependencies = [
-    "numpy",
-    "pygame"
-]
